@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-10T12:00:56.348Z" agent="5.0 (Windows NT 6.1; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="jG0EKmU9MEf5xaQ-F_2h" version="13.6.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-10T14:56:50.274Z" agent="5.0 (Windows NT 6.1; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="HY99bqgPgGPraIjNZC44" version="13.6.6" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="ER Diagram">
     <mxGraphModel dx="868" dy="1582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -197,6 +197,24 @@
       <root>
         <mxCell id="StNnvP4sP9I9Y5g_Woo8-0" />
         <mxCell id="StNnvP4sP9I9Y5g_Woo8-1" parent="StNnvP4sP9I9Y5g_Woo8-0" />
+        <mxCell id="hKzi1sZ-zTFsEF5ZK52Q-0" value="Product" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="StNnvP4sP9I9Y5g_Woo8-1">
+          <mxGeometry x="325" y="20" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hKzi1sZ-zTFsEF5ZK52Q-1" value="Purchase" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="StNnvP4sP9I9Y5g_Woo8-1">
+          <mxGeometry x="320" y="120" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hKzi1sZ-zTFsEF5ZK52Q-2" value="Invoicing" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="StNnvP4sP9I9Y5g_Woo8-1">
+          <mxGeometry x="320" y="300" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hKzi1sZ-zTFsEF5ZK52Q-3" value="Client" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="StNnvP4sP9I9Y5g_Woo8-1">
+          <mxGeometry x="320" y="210" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4dtqeflarMyWH29AoFgT-0" value="Price" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="StNnvP4sP9I9Y5g_Woo8-1">
+          <mxGeometry x="325" y="400" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sozxa7ys9gF8tzWbuxEB-0" value="Expense" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="StNnvP4sP9I9Y5g_Woo8-1">
+          <mxGeometry x="325" y="500" width="110" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
