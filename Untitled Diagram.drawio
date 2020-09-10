@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2020-09-10T11:54:47.635Z" agent="5.0 (Windows NT 6.1; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="I49BffXE6MoieL_4GC6u" version="13.6.6" type="github">
-  <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2020-09-10T12:00:56.348Z" agent="5.0 (Windows NT 6.1; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="jG0EKmU9MEf5xaQ-F_2h" version="13.6.6" type="github" pages="2">
+  <diagram id="R2lEEEUBdFMjLlhIrx00" name="ER Diagram">
     <mxGraphModel dx="868" dy="1582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
@@ -189,6 +189,14 @@
         <mxCell id="C-vyLk0tnHw3VtMMgP7b-29" value="Created_Date&#xa;Updated_Date&#xa;Invoice Type &#xa;Invoice Date&#xa;place of supply&#xa;Bill into (Cash,Client A/c)&#xa;Quantity&#xa;Dis (%)&#xa;Tax&#xa;Amount &#xa;Item_Description &#xa;Serial_No.&#xa;Extra_Expenses&#xa;SubTotal &#xa;Total Amount" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="C-vyLk0tnHw3VtMMgP7b-27" vertex="1">
           <mxGeometry x="30" width="210" height="310" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Jt-8DpUlsZP6aXwuVYhJ" name="Flow Chart">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="StNnvP4sP9I9Y5g_Woo8-0" />
+        <mxCell id="StNnvP4sP9I9Y5g_Woo8-1" parent="StNnvP4sP9I9Y5g_Woo8-0" />
       </root>
     </mxGraphModel>
   </diagram>
