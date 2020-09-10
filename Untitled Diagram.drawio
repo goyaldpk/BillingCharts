@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-10T06:56:31.367Z" agent="5.0 (Windows NT 6.1; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="m6vUILkwMoouzqizm44N" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-10T07:15:11.815Z" agent="5.0 (Windows NT 6.1; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="pnessrImgirDk8-SITrq" version="13.6.6" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="868" dy="1582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -50,23 +50,23 @@
         <mxCell id="hCV1hrrRze3Hc5nnpDuN-6" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="hCV1hrrRze3Hc5nnpDuN-5" vertex="1">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hCV1hrrRze3Hc5nnpDuN-7" value="Created_Date&#xa;Updated_Date&#xa;" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="hCV1hrrRze3Hc5nnpDuN-5" vertex="1">
+        <mxCell id="hCV1hrrRze3Hc5nnpDuN-7" value="Created_Date&#xa;Updated_Date&#xa;Profit loss&#xa; total goods&#xa;Goods sold&#xa;" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="hCV1hrrRze3Hc5nnpDuN-5" vertex="1">
           <mxGeometry x="30" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hCV1hrrRze3Hc5nnpDuN-8" value="Reminder" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="640" width="250" height="150" as="geometry" />
+          <mxGeometry x="90" y="640" width="250" height="90" as="geometry" />
         </mxCell>
         <mxCell id="hCV1hrrRze3Hc5nnpDuN-9" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="hCV1hrrRze3Hc5nnpDuN-8" vertex="1">
-          <mxGeometry y="30" width="250" height="90" as="geometry" />
+          <mxGeometry y="30" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hCV1hrrRze3Hc5nnpDuN-10" value="PK" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" parent="hCV1hrrRze3Hc5nnpDuN-9" vertex="1">
-          <mxGeometry width="30" height="90" as="geometry" />
+          <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hCV1hrrRze3Hc5nnpDuN-11" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" parent="hCV1hrrRze3Hc5nnpDuN-9" vertex="1">
-          <mxGeometry x="30" width="220" height="90" as="geometry" />
+          <mxGeometry x="30" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hCV1hrrRze3Hc5nnpDuN-12" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="hCV1hrrRze3Hc5nnpDuN-8" vertex="1">
-          <mxGeometry y="120" width="250" height="30" as="geometry" />
+          <mxGeometry y="60" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hCV1hrrRze3Hc5nnpDuN-13" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="hCV1hrrRze3Hc5nnpDuN-12" vertex="1">
           <mxGeometry width="30" height="30" as="geometry" />
