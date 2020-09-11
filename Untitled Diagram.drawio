@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-11T12:50:47.207Z" agent="5.0 (Windows NT 6.1; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="0Uy3GYADPENOWEDCNQ6r" version="13.6.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-11T12:58:51.837Z" agent="5.0 (Windows NT 6.1; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="mEmganMdEoCqxWAxld2w" version="13.6.6" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="ER Diagram">
     <mxGraphModel dx="868" dy="1582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -201,7 +201,7 @@
           <mxGeometry x="325" y="500" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rW7ILsoYWDILsNVb-hN5-0" value="Product Name" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="StNnvP4sP9I9Y5g_Woo8-1">
-          <mxGeometry y="-480" width="100" height="60" as="geometry" />
+          <mxGeometry x="-1" y="-480" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rW7ILsoYWDILsNVb-hN5-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;direction=south;" vertex="1" parent="StNnvP4sP9I9Y5g_Woo8-1">
           <mxGeometry x="40" y="-420" width="20" height="30" as="geometry" />
@@ -249,19 +249,37 @@
           <mxGeometry x="50" y="30" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="26I_G16eYiPDHGx6gITh-12" value="Payment" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="StNnvP4sP9I9Y5g_Woo8-1">
-          <mxGeometry x="10" y="80" width="70" height="70" as="geometry" />
+          <mxGeometry x="10" y="187.5" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="26I_G16eYiPDHGx6gITh-13" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.5;dx=45;notch=0;" vertex="1" parent="StNnvP4sP9I9Y5g_Woo8-1">
           <mxGeometry x="80" y="107.5" width="70" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="26I_G16eYiPDHGx6gITh-15" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=44;notch=0;direction=south;" vertex="1" parent="StNnvP4sP9I9Y5g_Woo8-1">
-          <mxGeometry x="35" y="150" width="20" height="70" as="geometry" />
+        <mxCell id="26I_G16eYiPDHGx6gITh-15" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=1;dx=43;notch=0;direction=south;" vertex="1" parent="StNnvP4sP9I9Y5g_Woo8-1">
+          <mxGeometry x="35" y="260" width="20" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="26I_G16eYiPDHGx6gITh-17" value="By card,cheque" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="StNnvP4sP9I9Y5g_Woo8-1">
-          <mxGeometry x="80" y="80" width="100" height="20" as="geometry" />
+        <mxCell id="2Z_6qNbiL_uMK-NcgIG5-1" value="Price&amp;nbsp;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="StNnvP4sP9I9Y5g_Woo8-1">
+          <mxGeometry x="10" y="80" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="26I_G16eYiPDHGx6gITh-18" value="Cash&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="StNnvP4sP9I9Y5g_Woo8-1">
-          <mxGeometry x="55" y="170" width="50" height="20" as="geometry" />
+        <mxCell id="2Z_6qNbiL_uMK-NcgIG5-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;direction=south;" vertex="1" parent="StNnvP4sP9I9Y5g_Woo8-1">
+          <mxGeometry x="35" y="150" width="20" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2Z_6qNbiL_uMK-NcgIG5-3" value="Sales price" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="StNnvP4sP9I9Y5g_Woo8-1">
+          <mxGeometry x="85" y="80" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2Z_6qNbiL_uMK-NcgIG5-4" value="MRP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="StNnvP4sP9I9Y5g_Woo8-1">
+          <mxGeometry x="60" y="150" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2Z_6qNbiL_uMK-NcgIG5-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.5;dx=45;notch=0;" vertex="1" parent="StNnvP4sP9I9Y5g_Woo8-1">
+          <mxGeometry x="80" y="215" width="70" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="2Z_6qNbiL_uMK-NcgIG5-6" value="By Card ,Cheque" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="StNnvP4sP9I9Y5g_Woo8-1">
+          <mxGeometry x="75" y="190" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2Z_6qNbiL_uMK-NcgIG5-7" value="Cash" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="StNnvP4sP9I9Y5g_Woo8-1">
+          <mxGeometry x="60" y="270" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="M5-M1_05_inkgHXU2gFs-0" value="Expense" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="StNnvP4sP9I9Y5g_Woo8-1">
+          <mxGeometry x="-1" y="340" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
